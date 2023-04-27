@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(gray, black);
+    color: whitesmoke;
+    min-height: 100vh;
+}
